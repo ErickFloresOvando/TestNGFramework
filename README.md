@@ -2,6 +2,7 @@ TestNGFramework is a Java-based test automation repository created to practice a
 This project contains hands-on exercises focused on building scalable, maintainable, and real-world automation solutions using industry best practices.
 
 🎯 Learning Objectives
+
 This repository includes exercises covering the following topics:
 
 ✅ TestNG Annotations
