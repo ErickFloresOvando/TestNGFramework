@@ -81,6 +81,7 @@ public class DynamicWaits {
         });
 
     }
+
     @Test
     public void testImplicitWait(){
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
