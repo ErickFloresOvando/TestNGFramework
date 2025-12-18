@@ -3,6 +3,7 @@ This project contains hands-on exercises focused on building scalable, maintaina
 
 🎯 Learning Objectives
 This repository includes exercises covering the following topics:
+
 ✅ TestNG Annotations
 ✅ TestNG Assertions
 ✅ Parameterized Testing (Data Providers & XML)
