@@ -19,6 +19,8 @@ This repository includes exercises covering the following topics:
 
 ✅ Page Object Model (POM) design pattern
 
+✅ Parallel Testing & Data Providers
+
 ✅ Test execution using TestNG XML
 
 ✅ Reusable utilities and base classes
