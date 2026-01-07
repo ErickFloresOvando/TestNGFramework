@@ -24,7 +24,7 @@ public class CrossBrowserTesting {
 
     // Credenciales de LambdaTest
     private String username = "erickfloresovando";
-    private String accessKey = "LT_hZlhCFGx9l7swlPFOKt6enNc31MzL8EYnhv6tDQOLuV3HnN";
+    private String accessKey = "";
 
     @Parameters({"Browser", "Version", "Platform"})
     @BeforeMethod
